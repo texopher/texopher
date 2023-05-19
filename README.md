@@ -27,3 +27,7 @@ Second purpose of this service is building boxes which contain offline gopher
 client with contents in specified knowledge domain.
 
 ```
+
+```
+$
+```
