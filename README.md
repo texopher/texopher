@@ -16,7 +16,8 @@
 ```
 [ FILTER GOPHER TEXT ]
 
-First purpose of this repository is filtering gopher text which is converted from HTML to be more readable.
+First purpose of this repository is filtering gopher text which is converted from HTML
+to be more readable.
 ```
 
 ```
