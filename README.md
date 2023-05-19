@@ -1,23 +1,31 @@
 ```
-                   _     _ _ _            
-                  | |   (_) | |           
-  __ _  ___  _ __ | |__  _| | |_ ___ _ __ 
- / _` |/ _ \| '_ \| '_ \| | | __/ _ \ '__|
-| (_| | (_) | |_) | | | | | | ||  __/ |   
- \__, |\___/| .__/|_| |_|_|_|\__\___|_|   
-  __/ |     | |                           
- |___/      |_|                           
+ _                       _
+| |                     | |
+| |_ _____  _____  _ __ | |__   ___ _ __
+| __/ _ \ \/ / _ \| '_ \| '_ \ / _ \ '__|
+| ||  __/>  < (_) | |_) | | | |  __/ |
+ \__\___/_/\_\___/| .__/|_| |_|\___|_|
+                  | |
+                  |_|
+
 -----------------------------------------
-        Filter gopher text!
+       Textify World Wide Web
 -----------------------------------------
 %
 ```
 
 ```
-[ FILTER GOPHER TEXT ]
+[ TEXTIFY WORLD WIDE WEB ]
 
-First purpose of this repository is filtering gopher text which is converted from HTML
-to be more readable.
+First purpose of this service is textifying world wide web, making Internet
+resources being ready for users to access via Gopher protocol.
+
+
+[ KNOWLEDGE BOXES ]
+
+Second purpose of this service is building boxes which contain offline gopher
+client with contents in specified knowledge domain.
+
 ```
 
 ```
