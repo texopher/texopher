@@ -32,5 +32,4 @@ client with contents in specified knowledge domain.
 $
 ```
 
-<a href="https://www.freecounterstat.com" title="free hit counter code"><img src="https://counter10.optistats.ovh/private/freecounterstat.php?c=m5y6th2sbjp36esu55c36cj5mq6mtz1e" border="0" title="free hit counter code" alt="free hit counter code"></a>
-
+<div id="sfctupg6fdbzze4m25sw572f24zq5ll34zb"></div><script type="text/javascript" src="https://counter10.optistats.ovh/private/counter.js?c=tupg6fdbzze4m25sw572f24zq5ll34zb&down=async" async></script><br><a href="https://www.freecounterstat.com">website hit counter</a><noscript><a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter10.optistats.ovh/private/freecounterstat.php?c=tupg6fdbzze4m25sw572f24zq5ll34zb" border="0" title="website hit counter" alt="website hit counter"></a></noscript>
