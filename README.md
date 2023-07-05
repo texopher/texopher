@@ -26,6 +26,18 @@ resources being ready for users to access via Gopher protocol.
 Second purpose of this service is building boxes which contain offline gopher
 client with contents in specified knowledge domain.
 
+
+[ ENHANCE GOPHER PROTOCOL ]
+
+Third purpose of this service is enhancing gopher protocol which
+add more features but still keep its simplicity.
+
+
+[ BUILD GOPHER CLIENTS ]
+
+Fourth purpose of this service is building gopher clients for
+multiple platforms.
+
 ```
 
 ```
