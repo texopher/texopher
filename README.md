@@ -9,7 +9,7 @@
                   |_|
 
 -----------------------------------------
-       Textify World Wide Web
+       Save Internet to SD cards
 -----------------------------------------
 %
 ```
@@ -50,7 +50,8 @@ these pages and get new knowledge.
           MISSION OF TEXOPHER
   -------------------------------------
 
-The mission of texopher is making above outlook becoming real.
+The mission of texopher is saving Internet to SD cards and making above
+outlook becoming real.
 
 In technology views, texopher has following purposes:
 
